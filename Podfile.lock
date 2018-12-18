@@ -1,5 +1,5 @@
 PODS:
-  - Graver (0.1):
+  - Graver (1.0.0):
     - SDWebImage (= 4.2.1)
   - SDWebImage (4.2.1):
     - SDWebImage/Core (= 4.2.1)
@@ -17,7 +17,7 @@ EXTERNAL SOURCES:
     :path: Graver.podspec
 
 SPEC CHECKSUMS:
-  Graver: 22da7e31eadb8a2aa8ad54129f27623054ee8754
+  Graver: fed3fff7a5816f9332f9fecd8392f37823c15003
   SDWebImage: 1fa4c9edf525b744f002db89f3f5a38b3cd4c541
 
 PODFILE CHECKSUM: a529bfbfc991ff7f960ac04b74f725a03f3153e0
