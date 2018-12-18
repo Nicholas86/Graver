@@ -1,14 +1,12 @@
 Pod::Spec.new do |s|
   s.name         = "Graver"
-  s.version      = "0.1"
+  s.version      = "1.0.0"
   s.summary      = "Graver for apps within waimai C"
-# homepage地址暂时指向内部stash，开源之前改成github公网地址
-  s.homepage     = "http://git.sankuai.com/projects/WM/repos/ios_c_graver/browse"
+  s.homepage     = "https://github.com/meituan-dianping/Graver"
   s.license      = { :type => 'Apache License 2.0', :file => 'LICENSE' }
-  s.author       = { "chenhang" => "chenhang03@meituan.com", "songyangyang" => "songyangyang03@meituan.com" }
+  s.author       = { "chenhang" => "hangisnice@gmail.com", "songyangyang" => "493912271@qq.com" }
   s.platform     = :ios, "9.0"
-# source地址暂时指向内部stash，开源之前改成github公网地址
-  s.source       = { :git => "ssh://git@git.sankuai.com/wm/ios_c_graver.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/meituan-dianping/Graver.git", :tag => "#{s.version}" }
   s.source_files  = "Graver", "Graver/**/*.{h,m}"
   s.preserve_paths = '*.pch'
   s.prefix_header_file = 'Graver.pch'
