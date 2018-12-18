@@ -1,0 +1,33 @@
+{
+  "name": "Graver",
+  "version": "0.1",
+  "summary": "Graver for apps within waimai C",
+  "homepage": "http://git.sankuai.com/projects/WM/repos/ios_c_graver/browse",
+  "license": {
+    "type": "Apache License 2.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenhang": "chenhang03@meituan.com",
+    "songyangyang": "songyangyang03@meituan.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "ssh://git@git.sankuai.com/wm/ios_c_graver.git",
+    "tag": "0.1"
+  },
+  "source_files": [
+    "Graver",
+    "Graver/**/*.{h,m}"
+  ],
+  "preserve_paths": "*.pch",
+  "prefix_header_file": "Graver.pch",
+  "requires_arc": true,
+  "dependencies": {
+    "SDWebImage": [
+      "4.2.1"
+    ]
+  }
+}

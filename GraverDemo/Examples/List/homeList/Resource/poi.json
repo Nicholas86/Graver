@@ -1,0 +1,952 @@
+[{
+    "id": 11111,
+    "name": "番茄炒蛋",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007471380&di=b2100fe21076aec03f8cfced82099dd7&imgtype=0&src=http%3A%2F%2Fimage.xinmin.cn%2F2016%2F08%2F06%2F20160806172159913425.jpeg",
+    "statusContent": "仅预定",
+    "descContent": "需提前30天预订",
+    "address": "北京市",
+    "monthSalesTip": "月售10000",
+    "star": 5.0,
+    "distance": "2.8km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "30分钟",
+    "shippingFeeTip": "配送 ¥32.5",
+    "originShippingFeeTip": "¥35",
+    "minPriceTip": "起送 ¥25",
+    "averagePriceTip": "人均 ¥35",
+    "thirdCategory": "中式简餐",
+    "labelInfoArray": [{
+        "content": "首单减27",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "49减25",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "79减40",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "109减430",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "1.27折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "领54元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "返104元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    }
+    ]
+}, {
+    "id": 122222,
+    "name": "炸猪排(德国大猪排)",
+    "reservationStatus": 1,
+    "restaurantImg": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2057749160,3937050728&fm=26&gp=0.jpg",
+    "statusContent": "",
+    "descContent": "",
+    "address": "北京市",
+    "monthSalesTip": "月售41141",
+    "star": 4.6,
+    "distance": "32.5km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "35分钟",
+    "shippingFeeTip": "配送 ¥4",
+    "originShippingFeeTip": "¥7",
+    "minPriceTip": "起送 ¥200",
+    "averagePriceTip": "人均 ¥305",
+    "thirdCategory": "西式简餐",
+    "labelInfoArray": [{
+        "content": "首单减117",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+}, {
+    "id": 33333,
+    "name": "宫保鸡丁(望京店）",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007259527&di=bbba5755ac6250319e95d24164aafda6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141030%2Fjigongbaojiding_3350821_small.jpg",
+    "statusContent": "仅预定",
+    "descContent": "需提前32天预订",
+    "address": "北京市",
+    "monthSalesTip": "月售438",
+    "star": 4.7,
+    "distance": "42.8km",
+    "restaurantIcon": "",
+    "deliveryTime": "428分钟",
+    "shippingFeeTip": "免配送费",
+    "originShippingFeeTip": "",
+    "minPriceTip": "起送 ¥0",
+    "averagePriceTip": "人均 ¥28",
+    "thirdCategory": "传统美食",
+    "labelInfoArray": [{
+        "content": "首单减127",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "225减6",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "50减102",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "752减128",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "115减28",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "62元无门槛红包",
+        "contentColor": "0xBB8415",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xDDC189"
+    },
+    {
+        "content": "新客减3",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "7折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "领23元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "支持自取",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    },
+    {
+        "content": "极速退款",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+}, {
+    "id": 444444,
+    "name": "干炸丸子(北京店)",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544602045&di=6cbba65a2a210ef3698a78f6860982e8&imgtype=jpg&er=1&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141217%2Fhongshaodoufuwanzi_3515773_small.jpg",
+    "statusContent": "仅预定",
+    "descContent": "需提前33天预订",
+    "address": "中国",
+    "monthSalesTip": "月售60",
+    "star": 0.0,
+    "distance": "1.6km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "30分钟",
+    "shippingFeeTip": "配送 ¥5",
+    "originShippingFeeTip": "",
+    "minPriceTip": "起送 ¥20",
+    "thirdCategory": "奶茶果汁",
+    "labelInfoArray": [{
+        "content": "首单减137",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "60减330",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "830减40",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "83元无门槛红包",
+        "contentColor": "0xBB8415",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xDDC189"
+    },
+    {
+        "content": "0.77折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+},
+{
+    "id": 11111,
+    "name": "番茄炒蛋",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007471380&di=b2100fe21076aec03f8cfced82099dd7&imgtype=0&src=http%3A%2F%2Fimage.xinmin.cn%2F2016%2F08%2F06%2F20160806172159913425.jpeg",
+    "statusContent": "仅预定",
+    "descContent": "需提前30天预订",
+    "address": "北京市",
+    "monthSalesTip": "月售10000",
+    "star": 5.0,
+    "distance": "2.8km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "30分钟",
+    "shippingFeeTip": "配送 ¥32.5",
+    "originShippingFeeTip": "¥35",
+    "minPriceTip": "起送 ¥25",
+    "averagePriceTip": "人均 ¥35",
+    "thirdCategory": "中式简餐",
+    "labelInfoArray": [{
+        "content": "首单减27",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "49减25",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "79减40",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "109减430",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "1.27折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "领54元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "返104元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    }
+    ]
+}, {
+    "id": 122222,
+    "name": "炸猪排(德国大猪排)",
+    "reservationStatus": 1,
+    "restaurantImg": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2057749160,3937050728&fm=26&gp=0.jpg",
+    "statusContent": "",
+    "descContent": "",
+    "address": "北京市",
+    "monthSalesTip": "月售41141",
+    "star": 4.6,
+    "distance": "32.5km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "35分钟",
+    "shippingFeeTip": "配送 ¥4",
+    "originShippingFeeTip": "¥7",
+    "minPriceTip": "起送 ¥200",
+    "averagePriceTip": "人均 ¥305",
+    "thirdCategory": "西式简餐",
+    "labelInfoArray": [{
+        "content": "首单减117",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+}, {
+    "id": 33333,
+    "name": "宫保鸡丁(望京店）",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007259527&di=bbba5755ac6250319e95d24164aafda6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141030%2Fjigongbaojiding_3350821_small.jpg",
+    "statusContent": "仅预定",
+    "descContent": "需提前32天预订",
+    "address": "北京市",
+    "monthSalesTip": "月售438",
+    "star": 4.7,
+    "distance": "42.8km",
+    "restaurantIcon": "",
+    "deliveryTime": "428分钟",
+    "shippingFeeTip": "免配送费",
+    "originShippingFeeTip": "",
+    "minPriceTip": "起送 ¥0",
+    "averagePriceTip": "人均 ¥28",
+    "thirdCategory": "传统美食",
+    "labelInfoArray": [{
+        "content": "首单减127",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "225减6",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "50减102",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "752减128",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "115减28",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "62元无门槛红包",
+        "contentColor": "0xBB8415",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xDDC189"
+    },
+    {
+        "content": "新客减3",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "7折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "领23元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "支持自取",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    },
+    {
+        "content": "极速退款",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+}, {
+    "id": 444444,
+    "name": "干炸丸子(北京店)",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544602045&di=6cbba65a2a210ef3698a78f6860982e8&imgtype=jpg&er=1&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141217%2Fhongshaodoufuwanzi_3515773_small.jpg",
+    "statusContent": "仅预定",
+    "descContent": "需提前33天预订",
+    "address": "中国",
+    "monthSalesTip": "月售60",
+    "star": 0.0,
+    "distance": "1.6km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "30分钟",
+    "shippingFeeTip": "配送 ¥5",
+    "originShippingFeeTip": "",
+    "minPriceTip": "起送 ¥20",
+    "thirdCategory": "奶茶果汁",
+    "labelInfoArray": [{
+        "content": "首单减137",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "60减330",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "830减40",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "83元无门槛红包",
+        "contentColor": "0xBB8415",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xDDC189"
+    },
+    {
+        "content": "0.77折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+},
+{
+    "id": 11111,
+    "name": "番茄炒蛋",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007471380&di=b2100fe21076aec03f8cfced82099dd7&imgtype=0&src=http%3A%2F%2Fimage.xinmin.cn%2F2016%2F08%2F06%2F20160806172159913425.jpeg",
+    "statusContent": "仅预定",
+    "descContent": "需提前30天预订",
+    "address": "北京市",
+    "monthSalesTip": "月售10000",
+    "star": 5.0,
+    "distance": "2.8km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "30分钟",
+    "shippingFeeTip": "配送 ¥32.5",
+    "originShippingFeeTip": "¥35",
+    "minPriceTip": "起送 ¥25",
+    "averagePriceTip": "人均 ¥35",
+    "thirdCategory": "中式简餐",
+    "labelInfoArray": [{
+        "content": "首单减27",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "49减25",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "79减40",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "109减430",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "1.27折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "领54元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "返104元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    }
+    ]
+}, {
+    "id": 122222,
+    "name": "炸猪排(德国大猪排)",
+    "reservationStatus": 1,
+    "restaurantImg": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2057749160,3937050728&fm=26&gp=0.jpg",
+    "statusContent": "",
+    "descContent": "",
+    "address": "北京市",
+    "monthSalesTip": "月售41141",
+    "star": 4.6,
+    "distance": "32.5km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "35分钟",
+    "shippingFeeTip": "配送 ¥4",
+    "originShippingFeeTip": "¥7",
+    "minPriceTip": "起送 ¥200",
+    "averagePriceTip": "人均 ¥305",
+    "thirdCategory": "西式简餐",
+    "labelInfoArray": [{
+        "content": "首单减117",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+}, {
+    "id": 33333,
+    "name": "宫保鸡丁(望京店）",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007259527&di=bbba5755ac6250319e95d24164aafda6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141030%2Fjigongbaojiding_3350821_small.jpg",
+    "statusContent": "仅预定",
+    "descContent": "需提前32天预订",
+    "address": "北京市",
+    "monthSalesTip": "月售438",
+    "star": 4.7,
+    "distance": "42.8km",
+    "restaurantIcon": "",
+    "deliveryTime": "428分钟",
+    "shippingFeeTip": "免配送费",
+    "originShippingFeeTip": "",
+    "minPriceTip": "起送 ¥0",
+    "averagePriceTip": "人均 ¥28",
+    "thirdCategory": "传统美食",
+    "labelInfoArray": [{
+        "content": "首单减127",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "225减6",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "50减102",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "752减128",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "115减28",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "62元无门槛红包",
+        "contentColor": "0xBB8415",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xDDC189"
+    },
+    {
+        "content": "新客减3",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "7折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "领23元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "支持自取",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    },
+    {
+        "content": "极速退款",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+}, {
+    "id": 444444,
+    "name": "干炸丸子(北京店)",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544602045&di=6cbba65a2a210ef3698a78f6860982e8&imgtype=jpg&er=1&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141217%2Fhongshaodoufuwanzi_3515773_small.jpg",
+    "statusContent": "仅预定",
+    "descContent": "需提前33天预订",
+    "address": "中国",
+    "monthSalesTip": "月售60",
+    "star": 0.0,
+    "distance": "1.6km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "30分钟",
+    "shippingFeeTip": "配送 ¥5",
+    "originShippingFeeTip": "",
+    "minPriceTip": "起送 ¥20",
+    "thirdCategory": "奶茶果汁",
+    "labelInfoArray": [{
+        "content": "首单减137",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "60减330",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "830减40",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "83元无门槛红包",
+        "contentColor": "0xBB8415",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xDDC189"
+    },
+    {
+        "content": "0.77折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+},
+{
+    "id": 11111,
+    "name": "番茄炒蛋",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007471380&di=b2100fe21076aec03f8cfced82099dd7&imgtype=0&src=http%3A%2F%2Fimage.xinmin.cn%2F2016%2F08%2F06%2F20160806172159913425.jpeg",
+    "statusContent": "仅预定",
+    "descContent": "需提前30天预订",
+    "address": "北京市",
+    "monthSalesTip": "月售10000",
+    "star": 5.0,
+    "distance": "2.8km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "30分钟",
+    "shippingFeeTip": "配送 ¥32.5",
+    "originShippingFeeTip": "¥35",
+    "minPriceTip": "起送 ¥25",
+    "averagePriceTip": "人均 ¥35",
+    "thirdCategory": "中式简餐",
+    "labelInfoArray": [{
+        "content": "首单减27",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "49减25",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "79减40",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "109减430",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "1.27折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "领54元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "返104元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    }
+    ]
+}, {
+    "id": 122222,
+    "name": "炸猪排(德国大猪排)",
+    "reservationStatus": 1,
+    "restaurantImg": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2057749160,3937050728&fm=26&gp=0.jpg",
+    "statusContent": "",
+    "descContent": "",
+    "address": "北京市",
+    "monthSalesTip": "月售41141",
+    "star": 4.6,
+    "distance": "32.5km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "35分钟",
+    "shippingFeeTip": "配送 ¥4",
+    "originShippingFeeTip": "¥7",
+    "minPriceTip": "起送 ¥200",
+    "averagePriceTip": "人均 ¥305",
+    "thirdCategory": "西式简餐",
+    "labelInfoArray": [{
+        "content": "首单减117",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+}, {
+    "id": 33333,
+    "name": "宫保鸡丁(望京店）",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007259527&di=bbba5755ac6250319e95d24164aafda6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141030%2Fjigongbaojiding_3350821_small.jpg",
+    "statusContent": "仅预定",
+    "descContent": "需提前32天预订",
+    "address": "北京市",
+    "monthSalesTip": "月售438",
+    "star": 4.7,
+    "distance": "42.8km",
+    "restaurantIcon": "",
+    "deliveryTime": "428分钟",
+    "shippingFeeTip": "免配送费",
+    "originShippingFeeTip": "",
+    "minPriceTip": "起送 ¥0",
+    "averagePriceTip": "人均 ¥28",
+    "thirdCategory": "传统美食",
+    "labelInfoArray": [{
+        "content": "首单减127",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "225减6",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "50减102",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "752减128",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "115减28",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "62元无门槛红包",
+        "contentColor": "0xBB8415",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xDDC189"
+    },
+    {
+        "content": "新客减3",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "7折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "领23元券",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "支持自取",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    },
+    {
+        "content": "极速退款",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+}, {
+    "id": 444444,
+    "name": "干炸丸子(北京店)",
+    "reservationStatus": 1,
+    "restaurantImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544602045&di=6cbba65a2a210ef3698a78f6860982e8&imgtype=jpg&er=1&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20141217%2Fhongshaodoufuwanzi_3515773_small.jpg",
+    "statusContent": "仅预定",
+    "descContent": "需提前33天预订",
+    "address": "中国",
+    "monthSalesTip": "月售60",
+    "star": 0.0,
+    "distance": "1.6km",
+    "restaurantIcon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1544007925399&di=bd7f71581f13091214799447aaf508f6&imgtype=0&src=http%3A%2F%2Fimg3.redocn.com%2Ftupian%2F20130706%2Fduanpianshipinjietiwangxiadiaodebaisejiantou_1961995_small.jpg",
+    "deliveryTime": "30分钟",
+    "shippingFeeTip": "配送 ¥5",
+    "originShippingFeeTip": "",
+    "minPriceTip": "起送 ¥20",
+    "thirdCategory": "奶茶果汁",
+    "labelInfoArray": [{
+        "content": "首单减137",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "60减330",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "830减40",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "83元无门槛红包",
+        "contentColor": "0xBB8415",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xDDC189"
+    },
+    {
+        "content": "0.77折起",
+        "contentColor": "0xFB4E44",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xFDC9C6"
+    },
+    {
+        "content": "票",
+        "contentColor": "0x666460",
+        "labelBackgroundColor": "",
+        "labelFrameColor": "0xE3E2E1"
+    }
+    ]
+}]

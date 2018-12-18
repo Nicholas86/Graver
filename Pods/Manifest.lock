@@ -1,0 +1,25 @@
+PODS:
+  - Graver (0.1):
+    - SDWebImage (= 4.2.1)
+  - SDWebImage (4.2.1):
+    - SDWebImage/Core (= 4.2.1)
+  - SDWebImage/Core (4.2.1)
+
+DEPENDENCIES:
+  - Graver (from `Graver.podspec`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  Graver:
+    :path: Graver.podspec
+
+SPEC CHECKSUMS:
+  Graver: 22da7e31eadb8a2aa8ad54129f27623054ee8754
+  SDWebImage: 1fa4c9edf525b744f002db89f3f5a38b3cd4c541
+
+PODFILE CHECKSUM: a529bfbfc991ff7f960ac04b74f725a03f3153e0
+
+COCOAPODS: 1.5.3
