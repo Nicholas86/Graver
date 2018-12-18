@@ -5,7 +5,7 @@ about: Describe this issue template's purpose here.
 ---
 
 <!--
-Thanks for using EasyReact!
+Thanks for using Graver!
 -->
 
 ### Context and Description
@@ -14,7 +14,7 @@ Thanks for using EasyReact!
 
 ### Environment Details
 
-* EasyReact version:
+* Graver version:
 * iOS version:
 * Xcode version:
 * Other informations:
