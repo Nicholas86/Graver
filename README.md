@@ -59,7 +59,7 @@ Graver 使用 [Apache Public License 2.0 许可证](./LICENSE)。
 
 ## 相关文章
 
-关于 Graver 的发展背景和过程，可参考美团技术博客 [Graver：用“雕刻”诠释iOS端UI界面的高效渲染](https://tech.meituan.com/waimai_graver.html)。
+关于 Graver 的发展背景和过程，可参考美团技术博客 [美团开源Graver框架：用“雕刻”诠释iOS端UI界面的高效渲染](https://tech.meituan.com/waimai_graver.html)。
 
 ## 其他
 
