@@ -26,7 +26,7 @@
 
    `$ git clone https://github.com/YOUR_GITHUB_ID/Graver`
 
-2. 通常一次 Pull Request 是为了解决一个 ISSUE， 已有的 ISSUE 列表可以在 [这里](https://github.com/meituan/Graver/issues) 找到。
+2. 通常一次 Pull Request 是为了解决一个 ISSUE， 已有的 ISSUE 列表可以在 [这里](https://github.com/Meituan-Dianping/Graver/issues) 找到。
 
    如果没有相关联的 ISSUE， 可以向开发组发邮件 [it_graver@meituan.com](mailto:it_graver@meituan.com)，我们将会与你讨论这次贡献。
 
