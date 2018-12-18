@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://raw.githubusercontent.com/meituan/Graver/master/LICENSE)
 
 ## Graver 是什么
-Graver 是一种高效的 UI 渲染框架。其独创性的采用了全新视觉元素分解的思路，使用灵活、简单。
+Graver 是一款高效的 UI 渲染框架，它以更低的资源消耗来构建十分流畅的 UI 界面。Graver 独创性的采用了基于绘制的视觉元素分解方式来构建界面，得益于此，该框架能让 UI 渲染过程变得更加简单、灵活。
 
 
 ## 功能特点
@@ -15,11 +15,11 @@ Graver 在 FPS、CPU、Memory 各方面的指标均表现优异。
 
 - **“一站式”异步化**
 
-Graver 从文本计算、样式排版渲染、图片解码、到绘制全程异步化，并且是线程安全的。使用 Graver 可以一站式获得全部性能优化点。
+Graver 从文本计算、样式排版渲染、图片解码，再到绘制，实现了全程异步化，并且是线程安全的。使用 Graver 可以一站式获得全部性能优化点。
 
 - **性能消耗的“边际成本”几乎为零**
 
-Graver 渲染整个过程除画板视图外完全没有使用 UIKit 控件，最终产出的结果是一张位图（bitmap），视图层级、数量大幅降低。
+Graver 渲染整个过程除画板视图外完全没有使用 UIKit 控件，最终产出的结果是一张位图（Bitmap），视图层级、数量大幅降低。
 
 - **渲染速度快**
 
