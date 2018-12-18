@@ -1,4 +1,4 @@
-﻿
+
 # 框架概述
 
 本文档描述了 Graver 框架不同模块的高层描述，并试图解释它们如何协同工作。你可以把本文档作为一个学习起点。
@@ -24,7 +24,7 @@
 我们认为界面展示的任一视觉元素都可以用两个核心要素表达：位置、大小 和 展示内容。位置、大小由 CGRect 类型的 Frame 表示，展示内容由 WMMutableAttributedItem 表示。
 基于此，WMMutableAttributedItem 要有强大的表达能力来表示任一视觉元素。框架提供了一系列的围绕 WMMutableAttributedItem 的周边建设，如图所示：
 
-<img src=./images/attributeditem.png width="40%">
+<img src=./images/attributeditem.png width="80%">
 
 - NSMutableAttributedString (GTextProperty) 描述富文本的字体、颜色等渲染属性。
 - NSAttributedString (GCalculateAndDraw) 提供了计算和绘制相关的服务。
@@ -32,14 +32,14 @@
 - WMGActiveRange 协议描述了激活区，即提供点击事件的表达。
 - WMGAttachment 协议提供了混排图文的基础。
 
-如果想深入理解面向视觉元素理念请参考美团技术博客 [Graver：用“雕刻”诠释iOS端UI界面的高效渲染](https://tech.meituan.com/waimai_graver.html)。
+如果想深入理解面向视觉元素理念请参考美团技术博客 [美团开源Graver框架：用“雕刻”诠释iOS端UI界面的高效渲染](https://tech.meituan.com/waimai_graver.html)。
 
 
 ## 预排版
 
 框架采用单向数据流思想来描述异步渲染的全体过程，预排版部分进行了明确的职责划分，如图所示：
 
-<img src=./images/prelayout.png width="60%">
+<img src=./images/prelayout.png width="80%">
 
 预排版部分按照 MVVM 方式设计，抽象了排版数据和业务数据的对应关系，持有关系如上图表示。
 
@@ -55,13 +55,13 @@ model.var = "new value"; // var 代表某一业务数据模型的成员变量
 
 框架对 CoreText、CoreGraphic 相对偏底层的调用全都封装了起来，向上层提供基础排版能力，这里的排版指的是 CoreText 层面的排版，是对预排版之后的数据进行最后的排版处理，经过该部分处理，下一步就可以直接渲染到界面上了。模块内关系如下图所示：
 
-<img src=./images/coretext.png width="30%">
+<img src=./images/coretext.png width="60%">
 
 ## 异步绘制
 
 关于异步绘制，我们提供了上层画板视图 WMGCanvasView，我们可以直接使用，或者以继承的方式使用均可。异步绘制的工作原理如下：
 
-<img src=./images/asyncdraw.png width="60%">
+<img src=./images/asyncdraw.png width="90%">
 
 如上图所示，Graver 涉及多个队列间的交互，以外卖 App 商家列表为例，整体流程如下：
 
