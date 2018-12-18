@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Graver"
-  s.version      = "1.0.0"
+  s.version      = "0.1"
   s.summary      = "Graver for apps within waimai C"
   s.homepage     = "https://github.com/meituan-dianping/Graver"
   s.license      = { :type => 'Apache License 2.0', :file => 'LICENSE' }
