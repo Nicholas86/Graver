@@ -1,6 +1,7 @@
 
 ![banner](./images/banner.png)
 
+[![License](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://raw.githubusercontent.com/meituan/Graver/master/LICENSE)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://raw.githubusercontent.com/meituan/Graver/master/LICENSE)
 
 ## Graver 是什么
